@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c6d37c4f-e9f5-427b-a444-72066c427c98": {
+      "ProjectGuid": "c6d37c4f-e9f5-427b-a444-72066c427c98",
+      "DisplayName": "EmployeeManagement",
+      "ColorIndex": 0
+    },
+    "0612cd95-fb2f-47a0-8dc1-c2a502485522": {
+      "ProjectGuid": "0612cd95-fb2f-47a0-8dc1-c2a502485522",
+      "DisplayName": "SSquredDataProvider",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,4 @@
+D:\All Code\Practice\TylerTech\SSquredProviderLibrary\obj\Debug\net472\SSquredDataProvider.GeneratedMSBuildEditorConfig.editorconfig
+D:\All Code\Practice\TylerTech\SSquredProviderLibrary\obj\Debug\net472\SSquredDataProvider.AssemblyInfoInputs.cache
+D:\All Code\Practice\TylerTech\SSquredProviderLibrary\obj\Debug\net472\SSquredDataProvider.AssemblyInfo.cs
+D:\All Code\Practice\TylerTech\SSquredProviderLibrary\obj\Debug\net472\SSquredDataProvider.csproj.CoreCompileInputs.cache

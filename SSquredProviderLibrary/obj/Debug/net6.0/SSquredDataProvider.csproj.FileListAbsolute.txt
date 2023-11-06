@@ -1,0 +1,12 @@
+D:\All Code\Practice\TylerTech\SSquredProviderLibrary\bin\Debug\net6.0\SSquredDataProvider.deps.json
+D:\All Code\Practice\TylerTech\SSquredProviderLibrary\bin\Debug\net6.0\SSquredDataProvider.dll
+D:\All Code\Practice\TylerTech\SSquredProviderLibrary\bin\Debug\net6.0\ref\SSquredDataProvider.dll
+D:\All Code\Practice\TylerTech\SSquredProviderLibrary\bin\Debug\net6.0\SSquredDataProvider.pdb
+D:\All Code\Practice\TylerTech\SSquredProviderLibrary\obj\Debug\net6.0\SSquredDataProvider.GeneratedMSBuildEditorConfig.editorconfig
+D:\All Code\Practice\TylerTech\SSquredProviderLibrary\obj\Debug\net6.0\SSquredDataProvider.AssemblyInfoInputs.cache
+D:\All Code\Practice\TylerTech\SSquredProviderLibrary\obj\Debug\net6.0\SSquredDataProvider.AssemblyInfo.cs
+D:\All Code\Practice\TylerTech\SSquredProviderLibrary\obj\Debug\net6.0\SSquredDataProvider.csproj.CoreCompileInputs.cache
+D:\All Code\Practice\TylerTech\SSquredProviderLibrary\obj\Debug\net6.0\SSquredDataProvider.dll
+D:\All Code\Practice\TylerTech\SSquredProviderLibrary\obj\Debug\net6.0\ref\SSquredDataProvider.dll
+D:\All Code\Practice\TylerTech\SSquredProviderLibrary\obj\Debug\net6.0\SSquredDataProvider.pdb
+D:\All Code\Practice\TylerTech\SSquredProviderLibrary\obj\Debug\net6.0\SSquredDataProvider.csproj.AssemblyReference.cache
